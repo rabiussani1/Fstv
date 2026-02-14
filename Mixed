@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1, 
 ****Bangla**
-#EXTINF:-1,T-SportHD
-https://padmaonline.duckdns.org:8088/T-SportHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Deepto tv
 https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/1711.m3u8
 #EXTINF:-1,Chennel i
