@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1, 
-****Bangla**
 #EXTINF:-1,Deepto tv
 https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/1711.m3u8
 #EXTINF:-1,Chennel i
@@ -129,13 +127,6 @@ http://198.195.239.50:8095/bdixbd.net_channelihd/video.m3u8
 #EXTINF:-1,gazitvhd
 http://198.195.239.50:8095/bdixbd.net_gazitvhd/video.m3u8
 
-
-
-
-
-
-
-***Kids***
 #EXTINF:-1 tvg-logo="" group-title="Kids",ZB Kartun
 https://server.zillarbarta.com/zbcatun/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 , Khushboo TV Bangla 
@@ -149,13 +140,6 @@ https://server.thelegitpro.in/rongeentv/rongeentv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Jungle Book
 https://cc-4bhi5osabejc9.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-4bhi5osabejc9/junglebook.m3u8
 
-
-
-
-
-
-
-***Indian Bangla***
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/Star_Jalsha_HD.png/revision/latest/scale-to-width-down/250?cb=20180908084350" group-title="Indian-Bangla",Star Jalsha HD
 http://103.182.170.32:8888/play/a046
 #EXTINF:-1,ZeeBanglaHD
@@ -186,16 +170,6 @@ https://padmaonline.duckdns.org:8088/ZeeBanglaHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1,ColorsBanglaHD
 https://padmaonline.duckdns.org:8088/ColorsBanglaHD/index.m3u8
 
-
-
-
-
-
-
-
-
-
-***Hindi***
 #EXTINF:-1,SonyMAX
 http://198.195.239.50:8095/SonyMAX/index.m3u8
 http://198.195.239.50:8095/SonyMAX/tracks-v1a1/mono.m3u8
@@ -253,25 +227,6 @@ https://padmaonline.duckdns.org:8088/StarPlusHD/index.m3u8
 #EXTINF:-1,SonyMaxHD
 https://padmaonline.duckdns.org:8088/SonyMaxHD/index.m3u8
 
-
-
-
-
-
-
-
-
-
-***PK Tv***
-
-
-
-
-***Islamic***
-
-
-
-***Songs***
 #EXTINF:-1 ,Bengali Betas
 https://tplay.live/originals/bengali-beats/index.m3u8
 #EXTINF:-1 ,24/7 English Songs
@@ -286,9 +241,6 @@ https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxI
 #EXTINF:-1,9xm
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/9xm/c8939874-787e-41ae-8d35-f5ea6e15720d/0.m3u8
 
-
-
-****News English***
 #EXTINF:-1 ,BBC News
 https://tplay.live/out/news/bbc-news/index.m3u8
 #EXTINF:-1 ,Al jazeera
@@ -300,10 +252,6 @@ https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxI
 #EXTINF:-1 ,DW Naws
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 
-
-
-
-***Others***
 #EXTINF:-1,Discovery
 http://198.195.239.50:8095/Discovery/index.m3u8
 http://198.195.239.50:8095/Discovery/tracks-v1a1/mono.m3u8
@@ -338,11 +286,6 @@ https://d1tm3cz23db55z.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d2
 #EXTINF:-66 , Wild Nature
 https://dg5rg8emlfy55.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/DistroTV-MuxIP-WildNature2/491.m3u8
 
-
-
-
-***24hour Channels***
-
 #EXTINF:-1 ,24/7 Hindi Movies
 https://cloudfrontnet.vercel.app/tplay/playout/209612/master.m3u8
 #EXTINF:-1 ,24/7 Bangla Movies
@@ -362,11 +305,6 @@ https://cloudfrontnet.vercel.app/tplay/playout/209592/master.m3u8
 #EXTINF:-1 ,24/7 Bangla Songs
 https://cloudfrontnet.vercel.app/tplay/playout/209587/master.m3u8
 
-
-
-
-***Sports***
-
 #EXTINF:-1,StarSportsSelect1
 http://198.195.239.50:8095/StarSportsSelect1/index.m3u8
 http://198.195.239.50:8095/StarSportsSelect1/tracks-v1a1/mono.m3u8
@@ -379,5 +317,3 @@ http://198.195.239.50:8095/Eurosport/tracks-v1a1/mono.m3u8
 #EXTINF:-1,WiLLow
 http://198.195.239.50:8095/WiLLow/index.m3u8
 http://198.195.239.50:8095/WiLLow/tracks-v1a1/mono.m3u8
-
-
